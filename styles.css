@@ -194,4 +194,12 @@ footer a:hover {
     .section p {
         font-size: 18px;
     }
+}.contact-link {
+    color: rgb(250, 244, 244);
+    text-decoration: none;
 }
+
+.contact-link:hover {
+    color: #ffddb3;
+}
+
